@@ -1,0 +1,165 @@
+header
+{
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: white;
+  padding-left: 5px;
+  margin: 10px;
+
+}
+body
+{
+  background-color: #76b852;
+}
+
+.navigation-page
+{
+  border-radius: 20px;
+  border: 1px solid black;
+  /*background-color: white;*/
+  margin: 10px;
+  padding: 5px;
+}
+
+.project-panel
+{
+  border-radius: 20px;
+  border: 1px solid  black;
+  background-color: white;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+  width: 205px;
+  height: 500px;
+  float: left;
+
+}
+
+.project-panel li
+{
+  background-color: #a1ce88
+}
+.current-project
+{
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: white;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+  width: 1135px;
+  height: 500px;
+  float: left;
+}
+
+.to-do
+{
+  border-radius: 20px;
+  border: 1px solid #b85276;
+  background-color: white ;
+  margin: 10px;
+  float: left;
+  height: 480px;
+  width:260px;
+}
+
+.to-do li
+{
+  background-color: #ce88a1;
+
+}
+
+.ongoing
+{
+  border-radius: 20px;
+  border: 1px solid #b852a9;
+  background-color: white;
+  margin: 10px;
+  float: left;
+  height: 480px;
+  width:260px;
+}
+
+.ongoing li
+{
+  background-color: #ce88c4;
+}
+.review
+{
+  border-radius: 20px;
+  border: 1px solid #6152b8;
+  background-color: white;
+  margin: 10px;
+  float: left;
+  height: 480px;
+  width:260px;
+}
+
+.review li
+{
+    background-color:#9388ce;
+}
+.completed
+{
+  border-radius: 20px;
+  border: 1px solid #5276b8;
+  background-color: white;
+  margin: 10px;
+  float: left;
+  height: 480px;
+  width:260px;
+}
+
+.completed li
+{
+  background-color:#88a1ce;
+}
+li
+{
+  border-radius: 20px;
+  /*border: 1px solid black;*/
+  margin: 10px;
+  background-color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.info
+{
+margin: 10px;
+border-radius: 20px;
+border: 1px solid black;
+background-color: white;
+padding: 5px;
+}
+
+.pimg
+{
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+  float: left;
+  height:200px;
+}
+
+.profile
+{
+  padding: 5px;
+  margin: 10px;
+}
+
+.ptext
+{
+  float: left;
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: white;
+  padding: 5px;
+  margin: 10px;
+  height:200px;
+  width:260px;
+
+}
